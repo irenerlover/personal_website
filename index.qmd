@@ -1,13 +1,20 @@
 ---
-title: "personal_website"
+title: "Share about statistics topics"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+How to
 
 ```{r}
 1 + 1
 ```
-
 $x+y$
+
+
+
+
+
+
+
+
+
+
